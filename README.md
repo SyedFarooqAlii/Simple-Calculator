@@ -1,1 +1,1 @@
-#<h1>Building a<i>Simple-Calculator</i></h1>
+#<h1>Building A <i>Simple-Calculator</i></h1>
